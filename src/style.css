@@ -1,0 +1,17 @@
+
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #f9f9f9;
+}
+#header {
+    background: #333;
+    color: white;
+    padding: 1rem;
+}
+#vis {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: white;
+    border: 1px solid #ccc;
+}
